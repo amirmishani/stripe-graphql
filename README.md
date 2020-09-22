@@ -35,7 +35,7 @@ This project consists of two packages, a server and the website. When a new subs
 
 - React JS
   - React Hooks
-  - React Context for User management
+  - React Context for Authentication
   - Protected Routes
 - Typscript
 - Apollo GraphQL Client
